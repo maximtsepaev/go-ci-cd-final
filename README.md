@@ -32,9 +32,9 @@
 ## Технологический стек
 
 - **Go 1.25.5**
-- **SQLite** (`modernc.org/sqlite`)
 - **GitHub Actions** (CI/CD)
 - **Docker** (сборка и публикация образа)
+- - **SQLite** (`modernc.org/sqlite`)
 
 ## Локальная проверка
 
