@@ -1,4 +1,4 @@
-module maximtsepaev/go-ci-cd-final
+module github.com/maximtsepaev/go-ci-cd-final
 
 go 1.25.5
 
